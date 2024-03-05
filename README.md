@@ -29,6 +29,7 @@ def circulate():
     print("After circulating the values are:",lis[n:]+lis[:n])
 ```
 ## Output:
-![alt text](image.png)
+![image](https://github.com/Gokul1410/Circulate-the-values-of-N-variables/assets/153058321/219f9a14-b795-44d2-93ca-764fabafc358)
+
 ## Result:
 The values with speacified n-variables are circulated successfully.
